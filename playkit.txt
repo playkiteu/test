@@ -1,1 +1,9 @@
 console.log("JS?");
+
+// I love JavaScript!
+let JS = true;
+if(JS){
+  console.log("I love JavaScript");
+}else{
+  console.log("Why ¯\(°_o)/¯");
+}
